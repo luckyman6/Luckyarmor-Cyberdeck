@@ -26,4 +26,6 @@ Imprimir las partes en 3D.
 Además, se proporciona un archivo de Fusion 360 para aquellos interesados en modificar o explorar el diseño en mayor detalle. Aunque no se incluye un manual de construcción completo, la lista de materiales (BOM), algunas fotos y los archivos STL/DXF deberían ser suficientes para replicar o mejorar el diseño.
 
 Contribuciones y Consultas
-Para cualquier pregunta o asistencia, no dudes en contactarme a través de rich@brickbots.com. ¡También me encantaría ver tus versiones personalizadas o proyectos relacionados, así que no dudes en compartirlos!
+Para cualquier pregunta o asistencia, no dudes en contactarme a través de abraham@leivasecurity.com.
+
+¡También me encantaría ver tus versiones personalizadas o proyectos relacionados, así que no dudes en compartirlos!
